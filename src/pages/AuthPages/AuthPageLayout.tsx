@@ -44,7 +44,7 @@ export default function AuthLayout({
 
               {/* Description */}
               <p className="text-gray-300 text-sm leading-relaxed">
-                Built by <span className="text-brand-400 font-medium">Urlwebwala IT Company</span>, 
+                Built by <span className="text-brand-400 font-medium">IT Company</span>, 
                 this modern admin panel helps you manage applications, users, 
                 analytics, and business operations efficiently with a clean 
                 and scalable UI powered by Tailwind CSS.

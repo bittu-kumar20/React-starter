@@ -1,4 +1,4 @@
-# urlwebwala React Tailwind Admin Dashboard
+# React Tailwind Admin Dashboard
 
 A free and open-source admin dashboard template built on **React and Tailwind CSS**.
 
